@@ -73,7 +73,7 @@
     "pull-to-stream": "0.1.1"
   },
   "devDependencies": {
-    "@babel/core": "7.13.10",
+    "@babel/core": "7.26.10",
     "@babel/plugin-proposal-class-properties": "7.13.0",
     "@babel/preset-env": "7.13.10",
     "babel-loader": "8.2.2",
@@ -97,7 +97,7 @@
     "nyc": "15.1.0",
     "raw-loader": "4.0.2",
     "request-progress": "3.0.0",
-    "shx": "0.3.3",
+    "shx": "0.4.0",
     "sinon": "9.2.4",
     "sinon-chrome": "3.0.1",
     "standard": "16.0.3",
